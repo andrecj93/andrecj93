@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.JS 3**
 
-- 💻 I’m current using the following tech **C#, Vue, SqlServer, .NET, Node.JS, Express, WebSockets, WebRTC**
+- 💻 I’m currently using the following tech **C#, Vue, SqlServer, .NET, Node.JS, Express, WebSockets, WebRTC, Selenium**
 
 - 📫 How to reach me **andre.cjordao@gmail.com**
 
