@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **UON Solutions**
 
-- 🌱 I’m currently learning **Vue.JS 3**
+- 🌱 I’m currently studying for **AZ-204**
 
 - 💻 I’m currently using the following tech **C#, Vue, SqlServer, .NET, Node.JS, Express, WebSockets, WebRTC, Selenium**
 
